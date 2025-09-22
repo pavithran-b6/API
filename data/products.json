@@ -28,5 +28,11 @@
     "name": "Xiaomi Mi 14 Ultra 256GB",
     "description": "The Xiaomi Mi 14 Ultra (256 GB) sports a 6.9-inch AMOLED display, Snapdragon 9 Gen 4+ processor, and penta-camera setup. It provides high performance, large storage, and fast charging for daily usage.",
     "price": "₹64,999"
+  },
+  {
+    "id": "49c5f0f8-d330-4087-bf4c-905095a2fd5c",
+    "name": "Google Pixel 10 256GB",
+    "description": "The Google Pixel 10 (256 GB) features a 6.5-inch OLED display, Tensor G4 processor, and dual 50 MP cameras with advanced AI features. It offers clean Android experience, excellent camera quality, and good battery life.",
+    "price": "₹69,900"
   }
 ]

@@ -3,8 +3,9 @@ const { fetchAll, fetchOne, create, update, remove } = require("../Models/produc
 async function getProducts(req,res){
     try{
         const products = await fetchAll();
-        res.writeHead(200,{ 'Content-Type' : 'application/json' });
-        res.end(JSON.stringify(products));
+        res.writeHead(200,{ 'Content-Type' : 'application/JSON' });
+        res.write(JSON.stringify(products));
+        res.end();
     }
     catch(error){
         console.log(error);
