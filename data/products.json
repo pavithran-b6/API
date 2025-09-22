@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "iPhone 17 256GB",
+    "description": "The iPhone 17 (256 GB) is Apple’s latest smartphone with a bright 6.3-inch OLED display, A19 chip, and dual 48 MP cameras. It offers fast performance, long battery life, and plenty of storage for apps, photos, and videos.",
+    "price": "₹82,900"
+  },
+  {
+    "id": "2",
+    "name": "Samsung Galaxy S25 256GB",
+    "description": "The Samsung Galaxy S25 (256 GB) features a 6.7-inch AMOLED display, Exynos 2500 processor, and triple 108 MP cameras. It offers high-speed performance, large storage, and a long-lasting battery.",
+    "price": "₹79,999"
+  },
+  {
+    "id": "3",
+    "name": "OnePlus 13 Pro 256GB",
+    "description": "The OnePlus 13 Pro (256 GB) comes with a 6.8-inch Fluid AMOLED display, Snapdragon 9 Gen 4 processor, and quad-camera setup. It delivers smooth performance, fast charging, and ample storage for apps and media.",
+    "price": "₹74,999"
+  },
+  {
+    "id": "4",
+    "name": "Google Pixel 10 256GB",
+    "description": "The Google Pixel 10 (256 GB) features a 6.5-inch OLED display, Tensor G4 processor, and dual 50 MP cameras with advanced AI features. It offers clean Android experience, excellent camera quality, and good battery life.",
+    "price": "₹69,900"
+  },
+  {
+    "id": "5",
+    "name": "Xiaomi Mi 14 Ultra 256GB",
+    "description": "The Xiaomi Mi 14 Ultra (256 GB) sports a 6.9-inch AMOLED display, Snapdragon 9 Gen 4+ processor, and penta-camera setup. It provides high performance, large storage, and fast charging for daily usage.",
+    "price": "₹64,999"
+  }
+]
